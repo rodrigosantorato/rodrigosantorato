@@ -9,6 +9,8 @@ Loves to solve complex problems and create value through technology. Have more t
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [rsantorato@gmail.com](mailto:rsantorato@gmail.com)
 
+CV: **https://drive.google.com/file/d/1M7G8pqiBTX-Ow63Bnw_6WlNfgxaY0p22/view?usp=sharing**
+
 ### Skills
 
 
