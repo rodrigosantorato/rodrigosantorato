@@ -1,7 +1,7 @@
 Hi 👋 My name is Rodrigo Santorato
 ==================================
 
-Backend Software Engineer
+Senior Software Engineer | Backend | Go
 -------------------------
 
 Loves to solve complex problems and create value through technology. Have more than five years of experience building RESTful APIs for web servers. Fortunate to face and overcome challenges with scalability, reliability and observability working on high performance high throughput services. Using kubernetes and docker containers with the right HPA configurations was able to deliver great results for Golang projects. Writing good quality automated tests using techniques such as TDD and incorporating those tests in a CI routine, preventing bugs and increasing the code quality of projects over time. Values the knowledge of more experienced developers so is constantly looking for resources that will keep them up to date with the industry's trends. Clean Architecture and Clean Code were two amazing reads that broadened their horizons. Leadership and communication skills are key to a productive team environment so they always make sure to explain the technical bits in an approachable way to stakeholders to ensure a good level of understanding between all involved. Currently focused on Go for its performance and concurrency capabilities.
